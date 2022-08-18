@@ -31,7 +31,7 @@ const App = () => {
   </Layout>
   <div className='footer'>
     <Typography.Title level={5} style={{color:'white', textAlign:'center'}} >
-    Cryptomaze <br />
+    Cryptoprism <br />
     All Right Reserved
   </Typography.Title>
   <Space >
